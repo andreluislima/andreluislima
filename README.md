@@ -16,7 +16,6 @@
 </p>
 
 
-
 ## 🚀 Sobre Mim
 
 <p>Sou desenvolvedor full stack com experiência em projetos para órgãos públicos, utilizando tecnologias como Java, Spring Boot e Angular. Apaixonado por tecnologia, busco transformar minha profissão no meu hobby, pois acredito que o trabalho se torna bem melhor quando colocamos coração nele.</p>
@@ -45,7 +44,7 @@ Site com foco em recrutadores, apresentando meus projetos e experiências.
 
 ## 🚧 Projetos em Desenvolvimento
 
-### 🔧 [Sistema de Gestão de Patrimônio (ERP)]([https://github.com/andrelima/patrimonio](https://github.com/andreluislima/gestao-patrimonial))
+### 🔧 [Sistema de Gestão de Patrimônio (ERP)](https://github.com/andreluislima/gestao-patrimonial)
 ERP completo para controle de veículos e imóveis. Projeto em andamento.
 
 - 🧩 Módulos: gestão de usuários, imóveis, veículos e geração de relatórios
@@ -56,13 +55,7 @@ ERP completo para controle de veículos e imóveis. Projeto em andamento.
 
 ---
 
-
-
----
-
 ## 📊 Estatísticas do GitHub
-
-![André Lima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreluislima&show_icons=true&theme=github_dark&locale=pt-br)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreluislima&layout=compact&theme=github_dark)
 
@@ -74,6 +67,3 @@ ERP completo para controle de veículos e imóveis. Projeto em andamento.
 - 💼 LinkedIn: [linkedin.com/in/andrelima89](https://www.linkedin.com/in/andreluislima89/)  
 - 🌐 Portfólio: [portifolioandrelima](https://portifolioandrelima.netlify.app)
 
----
-
-### 📌 Última atualização: Junho de 2025
