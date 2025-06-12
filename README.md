@@ -25,7 +25,7 @@
 
 ## 🌟 Featured Projects
 
-### 🔗 [Restaurante Brazucas](https://brazucas-restaurante.netlify.app/)
+### 🔗 [Brazucas Restaurant](https://brazucas-restaurante.netlify.app/)
 Institutional WebSite for a Brazilian food restaurant.
 
 - 🧩 Features: Menu Display, restaurant information, contatc and reservation forms
@@ -35,7 +35,7 @@ Institutional WebSite for a Brazilian food restaurant.
 
 ---
 
-### 🔗 [Portfólio Profissional](https://portifolioandrelima.netlify.app/)
+### 🔗 [Professional Portfolio](https://portifolioandrelima.netlify.app/)
 WebSite focused on recruiters, showcasing my projects and experiences
 
 - ⚙️ Stacks: HTML, CSS, JavaScript and Bootstrap 
