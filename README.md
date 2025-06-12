@@ -40,18 +40,6 @@ Site com foco em recrutadores, apresentando meus projetos e experiências.
 - 🎯 Design responsivo, leve e orientado à experiência do recrutador
 - ⚙️ Tecnologias: Angular, Bootstrap e integração com GitHub
 
----
-
-## 🚧 Projetos em Desenvolvimento
-
-### 🔧 [Sistema de Gestão de Patrimônio (ERP)](https://github.com/andreluislima/gestao-patrimonial)
-ERP completo para controle de veículos e imóveis. Projeto em andamento.
-
-- 🧩 Módulos: gestão de usuários, imóveis, veículos e geração de relatórios
-- ⚙️ Tecnologias:
-  - **Back-end**: Java 17, Spring Boot, JWT Auth
-  - **Front-end**: Angular
-  - **Banco de Dados**: PostgreSQL
 
 ---
 
