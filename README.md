@@ -1,7 +1,8 @@
 # 👋 Hi There!
 
-## 💼 André Lima | <i>Desenvolvedor Full Stack</i>
+## 💼 André Lima | <i>Full Stack Developer</i>
 
+<br>
 
 ## 💻 Skills
 
