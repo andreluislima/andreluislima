@@ -1,4 +1,4 @@
-# 👋 Olá! Seja bem-vindo(a) ao meu perfil
+# 👋 Hi There!
 
 ## 💼 André Lima | <i>Desenvolvedor Full Stack</i>
 
@@ -16,40 +16,39 @@
 </p>
 
 
-## 🚀 Sobre Mim
+## 🚀 About Me
 
-<p>Sou desenvolvedor full stack com experiência em projetos para órgãos públicos, utilizando tecnologias como Java, Spring Boot e Angular. Apaixonado por tecnologia, busco transformar minha profissão no meu hobby, pois acredito que o trabalho se torna bem melhor quando colocamos coração nele.</p>
+<p>I'm a full stack developer with experience in public sector projects, using technologies such as Java, Spring Boot and Angular. I try to turn my profession into my hobby, because i believe that work becomes much better when we put our heart into it.</p>
 
 ---
 
-## 🌟 Projetos em Destaque
+## 🌟 Featured Projects
 
 ### 🔗 [Restaurante Brazucas](https://brazucas-restaurante.netlify.app/)
-Site institucional para um restaurante de comida brasileira, com foco em experiência do usuário.
+Institutional WebSite for a Brazilian food restaurant.
 
-- 🧩 Funcionalidades: exibição de cardápio, informações do restaurante, formulários de contato e reservas
-- ⚙️ Tecnologias:
-  - **Front-end**: Angular (SPA), HTML5, CSS3 e Bootstrap
-  - **Deploy**: Netlify com CI/CD automático
+- 🧩 Features: Menu Display, restaurant information, contatc and reservation forms
+- ⚙️ Stacks:
+  - **Front-end**: Angular (SPA), HTML5, CSS3 and Bootstrap
+  - **Deploy**: Netlify with automatic CI/CD 
 
 ---
 
 ### 🔗 [Portfólio Profissional](https://portifolioandrelima.netlify.app/)
-Site com foco em recrutadores, apresentando meus projetos e experiências.
+WebSite focused on recruiters, showcasing my projects and experiences
 
-- 🎯 Design responsivo, leve e orientado à experiência do recrutador
-- ⚙️ Tecnologias: Angular, Bootstrap e integração com GitHub
+- ⚙️ Stacks: HTML, CSS, JavaScript and Bootstrap 
 
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Statics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreluislima&layout=compact&theme=github_dark)
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 - 📧 Email: [a.andreluislima@gmail.com](mailto:a.andreluislima@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/andrelima89](https://www.linkedin.com/in/andreluislima89/)  
